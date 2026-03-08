@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Satyam Gupta 👋
 
-<!--
-**satyamgupta12/satyamgupta12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at NIT Patna (2024–2027)  
+💡 Aspiring Data Scientist | Machine Learning | AI  
 
-Here are some ideas to get you started:
+I enjoy working with data to extract insights and build intelligent systems using Python and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Technical Skills
+
+Programming  
+• Python  
+• C++  
+• Java  
+
+Data Science  
+• Data Cleaning  
+• Data Analysis  
+• Data Visualization  
+• Feature Engineering  
+
+Machine Learning  
+• Classification  
+• Clustering  
+• Model Evaluation  
+
+Libraries & Tools  
+• NumPy  
+• Pandas  
+• Matplotlib  
+• Scikit-learn  
+• OpenCV (basic)
+
+---
+
+## 📚 Relevant Coursework
+
+• Machine Learning  
+• Artificial Intelligence  
+• Data Preparation & Visualization  
+• Data Structures  
+• Design and Analysis of Algorithms  
+
+---
+
+## 📫 Connect with me
+
+LinkedIn  
+https://linkedin.com/in/satyam-gupta-06bb5719a
